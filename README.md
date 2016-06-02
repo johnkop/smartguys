@@ -1,4 +1,4 @@
 # smartguys
-A repo to share documents & libraries for projects development
+A repo to share documents and libraries for project development
 
 # interesting articles
