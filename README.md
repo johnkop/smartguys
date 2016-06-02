@@ -1,6 +1,9 @@
 # SmartGuys
 A repo to share documents and libraries for project development
 
+#Links
+http://www.coindesk.com/
+
 #  Documents
 Bitcoin original whitepaper: https://bitcoincore.org/bitcoin.pdf
 
