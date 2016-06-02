@@ -13,6 +13,7 @@ BlockChain Explorer API: https://blockchain.info/api
 
 ##Bitcoin with Node
 bitcoinjs-lib: https://github.com/bitcoinjs/bitcoinjs-lib
+
 bitcore: https://github.com/bitpay/bitcore
 
 
