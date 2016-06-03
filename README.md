@@ -27,3 +27,7 @@ bitcore: https://github.com/bitpay/bitcore
 
 # APIs
 BlockChain Explorer API: https://blockchain.info/api
+
+Insight API - A blockchain explorer HTTP API
+
+Insight UI - A blockchain explorer web user interface
