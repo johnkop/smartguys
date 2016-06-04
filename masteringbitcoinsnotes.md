@@ -15,8 +15,16 @@ The following is a randomly generated private key (k) shown in hexadecimal forma
 
 
 ##PUBLIC KEYS
-The public key is calculated from the private key using elliptic curve multiplication, which is irreversible:  
+The public key is calculated from the private key using elliptic curve multiplication, which is irreversible: **K = G . k** where k is the private key, G is a constant point called the generator point and K is the resulting public key. The reverse operation, known as “finding the discrete logarithm”—calculating k if you know K—is as difficult as trying all possible values of k, i.e., a brute-force search.
 
-**K = G . k**
+##Bitcoin Addresses
+A bitcoin address is a string of digits and characters that can be shared with anyone who wants to send you money. Addresses produced from public keys consist of a string of numbers and letters, beginning with the digit “1”. Here’s an example of a bitcoin address:
 
-where k is the private key, G is a constant point called the generator point and K is the resulting public key. The reverse operation, known as “finding the discrete logarithm”—calculating k if you know K—is as difficult as trying all possible values of k, i.e., a brute-force search. Before we demonstrate how to generate a public key from a private key, let’s look at elliptic curve cryptography in a bit more detail.
+1J7mdg5rbQyUHENYdx39WVWK7fsLpEoXZy
+
+The bitcoin address is what appears most commonly in a transaction as the “recipient” of the funds. If we were to compare a bitcoin transaction to a paper check, the bitcoin address is the beneficiary, which is what we write on the line after “Pay to the order of.”
+
+The bitcoin address is derived from the public key through the use of one-way cryptographic hashing. A “hashing algorithm” or simply “hash algorithm” is a one-way function that produces a fingerprint or “hash” of an arbitrary-sized input. Cryptographic hash functions are used extensively in bitcoin: in bitcoin addresses, in script addresses, and in the mining proof-of-work algorithm. The algorithms used to make a bitcoin address from a public key are the Secure Hash Algorithm (SHA) and the RACE Integrity Primitives Evaluation Message Digest (RIPEMD), specifically SHA256 and RIPEMD160.
+
+Starting with the public key K, we compute the SHA256 hash and then compute the RIPEMD160 hash of the result, producing a 160-bit (20-byte) number: 
+**A = RIPEMD160(SHA256(K))** where K is the public key and A is the resulting bitcoin address.
