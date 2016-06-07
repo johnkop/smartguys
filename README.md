@@ -11,11 +11,11 @@ Bitcoin original whitepaper: https://bitcoincore.org/bitcoin.pdf
 
 BlockChain: https://www.safaribooksonline.com/library/view/blockchain/9781491920480/
 
-http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html
+Deloitte insights: http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html
 
-http://www.slideshare.net/cibbva/ebook-blockchain-technology-english
+BBVA virtual payments http://www.slideshare.net/cibbva/ebook-blockchain-technology-english
 
-http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services
+Blockchain in Financial Services: http://www.slideshare.net/wmougayar/blockchain-2015-analyzing-the-blockchain-in-financial-services
 
 ###Getting Started
  Bitcoin: https://www.safaribooksonline.com/library/view/mastering-bitcoin/9781491902639/ch03.html
