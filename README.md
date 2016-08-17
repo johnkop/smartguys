@@ -37,3 +37,7 @@ BlockChain Explorer API: https://blockchain.info/api
 Insight API - A blockchain explorer HTTP API
 
 Insight UI - A blockchain explorer web user interface
+
+
+# Data privacy
+https://www.privitar.com/ same spirit as http://enigma.media.mit.edu/
