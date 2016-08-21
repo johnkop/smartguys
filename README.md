@@ -41,3 +41,10 @@ Insight UI - A blockchain explorer web user interface
 
 # Data privacy
 https://www.privitar.com/ same spirit as http://enigma.media.mit.edu/
+
+# Rewards applications
+http://upcity.com/blog/top-20-loyalty-reward-apps-for-small-businesses/
+
+http://www.capterra.com/customer-loyalty-software/
+
+http://blog.hubspot.com/blog/tabid/6307/bid/31990/7-Customer-Loyalty-Programs-That-Actually-Add-Value.aspx#sm.00009x0g3iufvdgvu0n1rp803sh9g
