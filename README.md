@@ -42,6 +42,9 @@ Insight UI - A blockchain explorer web user interface
 # Data privacy
 https://www.privitar.com/ same spirit as http://enigma.media.mit.edu/
 
+# Distribute Data
+https://ipfs.io/
+
 # Rewards applications
 http://upcity.com/blog/top-20-loyalty-reward-apps-for-small-businesses/
 
