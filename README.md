@@ -6,10 +6,20 @@ https://bitcoin.org/
 
 http://www.coindesk.com/
 
-#  Documents
+#  Ethereum
+
+Platform review by the founder : https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/57506f387da24ff6bdecb3c1/1464889147417/Ethereum_Paper.pdf
+
+Source Code : https://github.com/ethereum
+
+R3 Consortium website : https://r3cev.com
+
+#  Bitcoin
 Bitcoin original whitepaper: https://bitcoincore.org/bitcoin.pdf
 
-BlockChain: https://www.safaribooksonline.com/library/view/blockchain/9781491920480/
+Mastering BlockChain: https://www.safaribooksonline.com/library/view/blockchain/9781491920480/
+
+#  Blockchain
 
 Deloitte insights: http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html
 
